@@ -13,7 +13,7 @@ public class L2021113669_X_Test extends Solution20
     public void testfindMinHeightTrees()
     {
         List<Integer> a = new ArrayList<Integer>();
-        a.add(2);
+        a.add(1);
         Assert.assertEquals(a, findMinHeightTrees(4, new int[][]{{1,0},{1,2},{1,3}})); 
           
     }   
